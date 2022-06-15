@@ -1,0 +1,83 @@
+E:\Проггири\SmartWords\SmartWords\bin\Debug\SmartWords.exe.config
+E:\Проггири\SmartWords\SmartWords\bin\Debug\SmartWords.exe
+E:\Проггири\SmartWords\SmartWords\bin\Debug\SmartWords.pdb
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.AssemblyReference.cache
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.SuggestedBindingRedirects.cache
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.ResolveComReference.cache
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.Form1.resources
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.Properties.Resources.resources
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.GenerateResource.cache
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.CoreCompileInputs.cache
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.exe
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.pdb
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.Form2.resources
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.Form3.resources
+E:\Проггири\SmartWords\SmartWords\bin\Debug\РАСПОРЯЖЕНИЕ.docx
+E:\Проггири\SmartWords\SmartWords\bin\Debug\СопроводительныйДокумент.docx
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.Form4.resources
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.textBoxStyle.resources
+E:\Проггири\SmartWords\SmartWords\obj\Debug\SmartWords.Form5.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\bin\Debug\РАСПОРЯЖЕНИЕ.docx
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\bin\Debug\СопроводительныйДокумент.docx
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\bin\Debug\SmartWords.exe.config
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\bin\Debug\SmartWords.exe
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\bin\Debug\SmartWords.pdb
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.AssemblyReference.cache
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.ResolveComReference.cache
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Form1.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Form2.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Form3.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Form4.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Form5.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Properties.Resources.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.textBoxStyle.resources
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.GenerateResource.cache
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.CoreCompileInputs.cache
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.exe
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.pdb
+C:\Users\thepl\Desktop\Smart 23.05\SmartWords\SmartWords\obj\Debug\SmartWords.Form6.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\bin\Debug\РАСПОРЯЖЕНИЕ.docx
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\bin\Debug\СопроводительныйДокумент.docx
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\bin\Debug\SmartWords.exe.config
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\bin\Debug\SmartWords.exe
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\bin\Debug\SmartWords.pdb
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.AssemblyReference.cache
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.ResolveComReference.cache
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form1.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form2.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form3.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form4.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form5.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form6.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Properties.Resources.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.textBoxStyle.resources
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.GenerateResource.cache
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.CoreCompileInputs.cache
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.exe
+C:\Users\thepl\Desktop\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.pdb
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\bin\Debug\РАСПОРЯЖЕНИЕ.docx
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\bin\Debug\СопроводительныйДокумент.docx
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\bin\Debug\SmartWords.exe.config
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\bin\Debug\SmartWords.exe
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\bin\Debug\SmartWords.pdb
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.AssemblyReference.cache
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.ResolveComReference.cache
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form1.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form2.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form3.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form4.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Properties.Resources.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.textBoxStyle.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.GenerateResource.cache
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.csproj.CoreCompileInputs.cache
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.exe
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.pdb
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form5.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form6.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form7.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form8.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form10.resources
+C:\Users\thepl\Desktop\Страый проект\123123213\SmartWords\SmartWords\obj\Debug\SmartWords.Form9.resources
